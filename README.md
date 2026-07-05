@@ -46,9 +46,7 @@
 
 ## 🎬 Demo
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x450?text=Countries+Explorer+Screenshot" alt="Countries Explorer screenshot placeholder" width="80%" />
-</p>
+![alt text](image.png)
 
 ---
 
